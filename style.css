@@ -1,6 +1,7 @@
 body {
 	background-color: blueviolet;
-	background-image: url(bg1.png)
+	background-image: url(new-background.png);
+		background-size: cover;
+		background-position: center;
+	}
 
-
-}
